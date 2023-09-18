@@ -2,11 +2,9 @@
 
 ---
 
-### Category Name 1 
+[Real-Time Twitter Opinion Analysis](/sample_page)
 
-[Project 1 Title](/sample_page)
-
-xxxxxxxxx
+I created a real-time Twitter sentiment and emotion analysis tool, utilizing data retrieval techniques and Natural Language Processing. This tool visualizes public sentiment on specific topics over time, processing millions of tweets and presenting dynamic plots for comprehensive insights.
 
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
