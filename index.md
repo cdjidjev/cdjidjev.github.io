@@ -6,7 +6,7 @@
 
 Real-time Twitter sentiment and emotion analysis tool, utilizing streaming data retrieval and natural language processing techniques. It visualizes public sentiment on a user-specified topic over time, processing millions of tweets and presenting dynamic plots for comprehensive insights.
 
-<img src="Screenshot 2023-09-19 at 2.41.27 PM.png?raw=true"/>
+<img src="images/twitsent.jpg?raw=true"/>
 
 ---
 [Bully Blocker](/sample_presentation.pdf)
@@ -18,7 +18,7 @@ Interdisciplinary project leveraging computer science and psychology to combat c
 
 In the realm of financial security, fraud remains a pervasive challenge for businesses and organizations. This project seeks to harness the power of machine learning to create a robust model for fraud detection in financial transactions, leveraging a carefully curated dataset and advanced data preprocessing techniques.
 
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/breach-1.jpg?raw=true"/>
 
 ---
 [Cash Dash - Hacking4Defense](http://example.com/)
