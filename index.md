@@ -6,7 +6,7 @@
 
 Real-time Twitter sentiment and emotion analysis tool, utilizing streaming data retrieval and natural language processing techniques. It visualizes public sentiment on a user-specified topic over time, processing millions of tweets and presenting dynamic plots for comprehensive insights.
 
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="Screenshot 2023-09-19 at 2.41.27 PM.png?raw=true"/>
 
 ---
 [Bully Blocker](/sample_presentation.pdf)
