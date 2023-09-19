@@ -1,12 +1,12 @@
 title: Christie Djidjev # your name (or website title) here
 logo: "/images/PXL_20230511_225405456.PORTRAIT.jpeg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  I'm a magna cum laude graduate in Applied Computing from Arizona State University, 
-  skilled in Python, Machine Learning, and NLP. I am currently on track to pursue a 
-  Master's degree in AI.
+  Graduate in Applied Computing from Arizona State University (magna cum laude, 2023).
+  Skilled in Data Science, Python, Machine Learning, and NLP. Motivated to excel and 
+  grow in the fields of Data Science and AI.
  
   <br><br>
-  <a href="https://www.linkedin.com/in/christiedjidjev</a> 
+  <a href="https://www.linkedin.com/in/christie-djidjev</a> 
   
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
