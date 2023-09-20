@@ -7,7 +7,7 @@ description: > # your text below (remove <br> elements if you don't need line br
   grow in the fields of Data Science and AI. xyx2
  
   <br><br>
-  <a href="https://www.linkedin.com/in/christie-djidjev</a> 
+  <a href="https://www.linkedin.com/in/christie-djidjev">View My LinkedIn Profile</a> 
   
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
