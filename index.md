@@ -18,8 +18,6 @@ Interdisciplinary project leveraging computer science and psychology to combat c
 
 In the realm of financial security, fraud remains a pervasive challenge for businesses and organizations. This project seeks to harness the power of machine learning to create a robust model for fraud detection in financial transactions, leveraging a carefully curated dataset and advanced data preprocessing techniques.
 
-<img src="images/breach-1.jpg?raw=true"/>
-
 ---
 [Cash Dash - Hacking4Defense](http://example.com/)
 
