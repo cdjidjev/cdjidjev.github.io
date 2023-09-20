@@ -1,10 +1,10 @@
-## This can be your internal website page / project page
+## Towards Real-Time Monitoring of Public Opinion on Twitter Using Sentiment and Emotion Analysis
 
-**Project description:** Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+**Project description:** In my project, titled, I undertook the task of conducting sentiment analysis on Twitter data pertaining to specific topics. Initially, I faced obstacles on real-time streaming due to Twitter's access restrictions. Thankfully, after acquiring a Twitter bearer token, I enabled the successful execution of the code, which employed NLTK library tools for sentiment score prediction. As my research progressed, I incorporated NLP and machine learning techniques to enhance sentiment analysis. Utilizing Twitter's filtered streaming option, I collected data, focusing on topics such as "covid" and "chatGPT," and observed that COVID-19-related tweets exhibited more negative sentiment and emotions, while those about chatGPT skewed positive. 
 
 ### 1. Suggest hypotheses about the causes of observed phenomena
 
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
+The project's primary hypothesis aimed to explore whether combining sentiment and emotion analysis could yield deeper insights into overall topic opinions. I selected two Twitter topics expected to exhibit predominantly negative and positive sentiments for investigation.
 
 ```javascript
 if (isAwesome){
