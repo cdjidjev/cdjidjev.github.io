@@ -2,7 +2,7 @@
 
 **Introduction:** 
 The aim of this project is to develop a machine learning-based approach to analyze sentiment and emotions in tweets from Twitter in real-time.
-  • Sentiment vs emotions: related concepts but have distinct meanings.
+__• Sentiment vs emotions: related concepts but have distinct meanings.
   • Sentiment: refers to the general attitude or opinion towards
   something
       o Positive: “it is a nice place,” “food was tasty”
