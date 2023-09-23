@@ -7,7 +7,7 @@ The goal of this project is to create a real-time machine learning system for an
 
 NLTK and vader_lexicon was used for sentiment analysis, SemEval 2018 - Task E-c dataset for emotion classification, and applied extensive preprocessing. The Twitter dataset, collected using specific keywords, includes at least 50,000 tweets per topic and underwent preprocessing.
 
-<img src="images/JoyWordCloudCovid.jpg?raw=true"/>
+<img src="images/joywordcloud.jpg?raw=true"/>
 A word cloud generated from tweets labeled with the emotion "joy".
 
 ### Methodology
