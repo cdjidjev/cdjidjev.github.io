@@ -7,16 +7,19 @@ The goal of this project is to create a real-time machine learning system for an
 
 NLTK and vader_lexicon was used for sentiment analysis, SemEval 2018 - Task E-c dataset for emotion classification, and applied extensive preprocessing. The Twitter dataset, collected using specific keywords, includes at least 50,000 tweets per topic and underwent preprocessing.
 
-<img src="images/JoyWordCloudCovid.pdf?raw=true"/>
+<img src="images/JoyWordCloudCovid.jpg?raw=true"/>
 A word cloud generated from tweets labeled with the emotion "joy".
 
 ### Methodology
 
 The project comprises three key phases: 
 <br>
+<br>
 In Part 1, we collect COVID-19-related tweets and employ NLTK for sentiment analysis. The sentiment trends are then visualized over time, providing insights into public opinion evolution.
 <br>
+<br>
 Part 2 involves training a machine learning model to classify emotions in tweets using the SemEval dataset. We adapt the sentiment analysis algorithm for emotion identification, encompassing pre-processing, text vectorization, and machine learning model training. ML methods include BernoulliNB, LogisticRegression, and LinearSVC.
+<br>
 <br>
 In Part 3, we collect tweets related to specific topics like Covid-19 and ChatGPT. A tool is deployed to classify real-time tweets and plot sentiment and emotion changes over time, allowing us to understand the evolving public opinion on different topics.
 
