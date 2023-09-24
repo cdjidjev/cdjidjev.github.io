@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+   
+   <script async src="https://www.googletagmanager.com/gtag/js?id=UA-000000-0"></script>
+   <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+      
+      gtag('config', 'UA-000000-0');
+   </script>
+   
+   <meta charset="UTF-8">
+   <meta http-equiv="X-UA-Compatible" content="IE=edge">
+   <meta name="viewport" content="width=device-width, initial-scale=1">
+   <!-- Begin Jekyll SEO tag v2.8.0 -->
+<title>Towards Real-Time Monitoring of Public Opinion on Twitter Using Sentiment and Emotion Analysis | Christie Djidjev</title>
+<meta name="generator" content="Jekyll v3.9.3" />
+<meta property="og:title" content="Towards Real-Time Monitoring of Public Opinion on Twitter Using Sentiment and Emotion Analysis" />
+<meta property="og:locale" content="en_US" />
+<meta name="description" content="Graduate in Applied Computing from Arizona State University (magna cum laude, 2023). Skilled in Data Science, Python, Machine Learning, and NLP. Motivated to excel and grow in the fields of Data Science and AI. View My LinkedIn Profile" />
+<meta property="og:description" content="Graduate in Applied Computing from Arizona State University (magna cum laude, 2023). Skilled in Data Science, Python, Machine Learning, and NLP. Motivated to excel and grow in the fields of Data Science and AI. View My LinkedIn Profile" />
+<link rel="canonical" href="https://cdjidjev.github.io/sample_page.html" />
+<meta property="og:url" content="https://cdjidjev.github.io/sample_page.html" />
+<meta property="og:site_name" content="Christie Djidjev" />
+<meta property="og:type" content="website" />
+<meta name="twitter:card" content="summary" />
+<meta property="twitter:title" content="Towards Real-Time Monitoring of Public Opinion on Twitter Using Sentiment and Emotion Analysis" />
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"WebPage","description":"Graduate in Applied Computing from Arizona State University (magna cum laude, 2023). Skilled in Data Science, Python, Machine Learning, and NLP. Motivated to excel and grow in the fields of Data Science and AI. View My LinkedIn Profile","headline":"Towards Real-Time Monitoring of Public Opinion on Twitter Using Sentiment and Emotion Analysis","publisher":{"@type":"Organization","logo":{"@type":"ImageObject","url":"https://cdjidjev.github.io/images/profile.jpeg?raw=true"}},"url":"https://cdjidjev.github.io/sample_page.html"}</script>
+<!-- End Jekyll SEO tag -->
+
+   <link rel="stylesheet" href="images/style.css?v=844c8290ec0ade11fed11468c2f1355160a37ec5">
+   <!--[if lt IE 9]>
+   <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
+   <![endif]-->
+</head>
+<body>
+   <div class="wrapper">
+      <header>
+         <h1><a href="https://cdjidjev.github.io/">Christie Djidjev</a></h1>
+         
+            <img src="images/profile.jpeg?raw=true" alt="Logo" width="170" height="200" style="margin-left: 5px;" />
+         
+         <p><br>Graduate in Applied Computing from Arizona State University (magna cum laude, 2023). 
+            Skilled in Data Science, Python, Machine Learning, and NLP. Motivated to excel and  
+            grow in the fields&nbsp;of&nbsp;Data Science and AI. 
+<br> <a href="https://www.linkedin.com/in/christie-djidjev">View My LinkedIn Profile</a> 
+</p>
+         
+         
+         <p class="view"><a href="https://github.com/cdjidjev">View My GitHub Profile</a></p>
+         
+         
+      </header>
+      <section>
+         <h2 id="towards-real-time-monitoring-of-public-opinion-on-twitter-using-sentiment-and-emotion-analysis">Towards Real-Time Monitoring of Public Opinion on Twitter Using Sentiment and Emotion Analysis</h2>
+
+<p><strong>Introduction:</strong> 
+The goal of this project is to create a real-time machine learning system for analyzing sentiment and emotions in tweets from Twitter. It differentiates between sentiment, which reflects the overall attitude or opinion, encompassing positive and negative expressions, and emotions, encompassing complex psychological states like happiness, sadness, anger, and fear. The research aims to develop a methodology that combines sentiment and emotion analysis to offer a deeper understanding of public sentiment on Twitter, providing more nuanced insights into user opinions.</p>
+
+<h3 id="data">Data</h3>
+
+<p>NLTK and vader_lexicon was used for sentiment analysis, SemEval 2018 - Task E-c dataset for emotion classification, and applied extensive preprocessing. The Twitter dataset, collected using specific keywords, includes at least 50,000 tweets per topic and underwent preprocessing.</p>
+
+<p><img src="images/joywordcloud.jpg?raw=true" />
+A word cloud generated from tweets labeled with the emotion “joy”.</p>
+
+<h3 id="methodology">Methodology</h3>
+
+<p>The project comprises three key phases: 
+<br />
+<br />
+In Part 1, we collect COVID-19-related tweets and employ NLTK for sentiment analysis. The sentiment trends are then visualized over time, providing insights into public opinion evolution.
+<br />
+<br />
+Part 2 involves training a machine learning model to classify emotions in tweets using the SemEval dataset. We adapt the sentiment analysis algorithm for emotion identification, encompassing pre-processing, text vectorization, and machine learning model training. ML methods include BernoulliNB, LogisticRegression, and LinearSVC.
+<br />
+<br />
+In Part 3, we collect tweets related to specific topics like Covid-19 and ChatGPT. A tool is deployed to classify real-time tweets and plot sentiment and emotion changes over time, allowing us to understand the evolving public opinion on different topics.</p>
+
+<h3 id="results">Results</h3>
+
+<p><strong>Relating emotions to sentiments</strong>
+  The sentiment and emotion pairs’ scores are calculated by summing their strengths when they co-occur in tweets. This information is visualized in a bipartite graph, where edge thickness represents the pair’s weight, and this process is repeated for both “covid” and “chatGPT” topics.</p>
+
+<p><img src="images/bipartite.jpg?raw=true" /></p>
+
+<p><strong>Estimating sentiments and emotions in real-time:</strong>
+  To monitor the live Twitter stream, we filter relevant tweets using keywords. Then, we analyze sentiment and emotions by running the NLTK classifier and machine learning models on sets of 20 consecutive tweets. This data is used to update a dynamic plot tracking changes in sentiment and emotions over time.</p>
+
+<p><img src="images/twitsent.jpg?raw=true" /></p>
+
+<h3 id="4-conclusion">4. Conclusion</h3>
+
+<p>The project aims to develop a real-time machine learning approach for sentiment and emotion analysis of Twitter data. This involves pre-processing, text vectorization, and machine learning model training to classify emotions in tweets. By linking emotions to sentiments and filtering live Twitter streams with user-provided keywords, it offers nuanced insights into public opinion. Ultimately, this project can provide a powerful real-time tool for monitoring public sentiment on various topics.</p>
+
+<p>For more details see <a href="https://guides.github.com/features/mastering-markdown/">GitHub Flavored Markdown</a>.</p>
+
+      </section>
+      <footer>
+         
+         <p><small>Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a></small></p>
+      </footer>
+   </div>
+   <script src="/assets/js/scale.fix.js"></script>
+</body>
+</html>
