@@ -2,7 +2,7 @@
 
 ---
 
-[Real-Time Twitter Opinion Analysis](/sample_page)
+[Real-Time Twitter Opinion Analysis](/twitsent)
 
 Real-time Twitter sentiment and emotion analysis tool, utilizing streaming data retrieval and natural language processing techniques. It visualizes public sentiment on a user-specified topic over time, processing millions of tweets and presenting dynamic plots for comprehensive insights.
 
