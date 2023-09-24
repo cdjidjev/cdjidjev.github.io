@@ -1,6 +1,6 @@
 ## Towards Real-Time Monitoring of Public Opinion on Twitter Using Sentiment and Emotion Analysis
 
-**Introduction:** 
+###Introduction### 
 The goal of this project is to create a real-time machine learning system for analyzing sentiment and emotions in tweets from Twitter. It differentiates between sentiment, which reflects the overall attitude or opinion, encompassing positive and negative expressions, and emotions, encompassing complex psychological states like happiness, sadness, anger, and fear. The research aims to develop a methodology that combines sentiment and emotion analysis to offer a deeper understanding of public sentiment on Twitter, providing more nuanced insights into user opinions.
 
 ### Data
@@ -36,7 +36,7 @@ In Part 3, we collect tweets related to specific topics like Covid-19 and ChatGP
 
 <img src="images/twitsent.jpg?raw=true"/>
 
-### 4. Conclusion
+### Conclusion
 
 The project aims to develop a real-time machine learning approach for sentiment and emotion analysis of Twitter data. This involves pre-processing, text vectorization, and machine learning model training to classify emotions in tweets. By linking emotions to sentiments and filtering live Twitter streams with user-provided keywords, it offers nuanced insights into public opinion. Ultimately, this project can provide a powerful real-time tool for monitoring public sentiment on various topics.
 
