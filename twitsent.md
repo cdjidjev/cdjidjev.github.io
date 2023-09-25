@@ -7,20 +7,21 @@ Figure 1. A word cloud generated from tweets labeled with the emotion "joy".
 
 The project is divided into three phases: sentiment trend analysis over time, emotion identification using machine learning, and real-time sentiment and emotion monitoring on specific topics. The results are visualized in bipartite graphs and dynamic plots, providing valuable insights into evolving public opinion. 
 
-The following figures were created using tweets pulled with the keyword "covid".
+The following figures were created using tweets pulled with the keywords "covid" and "chatGPT". In this first image we have a bipartite that shows the relationships between negative or positive sentiment and each of the emotions. The thickness of the edge encodes the weight of the corresponding pair.
 
 <img src="images/bipartiteCovid.jpg?raw=true"/>
 
-Figure 2. A bipartite graph where the thickness of the edge encodes the weight of the corresponding pair.
 
-<video src="https://github.com/cdjidjev/cdjidjev.github.io/assets/40774209/12867180-6878-451b-b62d-1dfe56cd94e9" controls="controls" style="max-width: 730px;">
+Next we have a dynamic plot showing average change of emotions per batch of tweets over time and a dynamic pie chart showing frequency of emotions per batch of tweets over time. 
+
+<video src="https://github.com/cdjidjev/cdjidjev.github.io/assets/40774209/12867180-6878-451b-b62d-1dfe56cd94e9" controls="controls" style="max-width: 400px;">
+</video>
+
+<video src="https://github.com/cdjidjev/cdjidjev.github.io/assets/40774209/7223d7d6-0841-4c0e-a28b-841bdbfd96e1" controls="controls" style="max-width: 400px;">
 </video>
 
 
 
-Figure 3. Dynamic plot showing average change of emotions per batch of tweets over time. 
-Figure 4. Dynamic plot showing average change of negative or positive per batch of tweets over time. 
-Figure 5. Dynamic plot showing frequency of emotions per batch of tweets over time. 
 
 
 Ultimately, this project aims to offer a powerful real-time tool for tracking sentiment and emotions across various Twitter topics..
