@@ -13,10 +13,10 @@ The following figures were created using tweets pulled with the keywords "covid"
 
 Next we have a dynamic plot showing average change of emotions per batch of tweets over time and a dynamic pie chart showing frequency of emotions per batch of tweets over time. 
 
-<video src="https://github.com/cdjidjev/cdjidjev.github.io/assets/40774209/12867180-6878-451b-b62d-1dfe56cd94e9" controls="controls" style="max-width: 400px;">
+<video src="https://github.com/cdjidjev/cdjidjev.github.io/assets/40774209/12867180-6878-451b-b62d-1dfe56cd94e9" controls="controls" style="max-width: 500px;">
 </video>
 
-<video src="https://github.com/cdjidjev/cdjidjev.github.io/assets/40774209/7223d7d6-0841-4c0e-a28b-841bdbfd96e1" controls="controls" style="max-width: 400px;">
+<video src="https://github.com/cdjidjev/cdjidjev.github.io/assets/40774209/7223d7d6-0841-4c0e-a28b-841bdbfd96e1" controls="controls" style="max-width: 500px;">
 </video>
 
 
