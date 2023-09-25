@@ -9,7 +9,7 @@ The project is divided into three phases: sentiment trend analysis over time, em
 
 The following figures were created using tweets pulled with the keyword "covid".
 
-<img src="images/bipartite.jpg?raw=true"/>
+<img src="images/bipartiteCovid.jpg?raw=true"/>
 
 Figure 2. A bipartite graph where the thickness of the edge encodes the weight of the corresponding pair.
 
