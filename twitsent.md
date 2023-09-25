@@ -13,7 +13,7 @@ The following figures were created using tweets pulled with the keyword "covid".
 
 Figure 2. A bipartite graph where the thickness of the edge encodes the weight of the corresponding pair.
 
-<img src="images/twitsent.jpg?raw=true"/>
+<img src="images/dynamicEmotions.mov?raw=true"/>
 
 Figure 3. Dynamic plot showing average change of emotions per batch of tweets over time. 
 Figure 4. Dynamic plot showing average change of negative or positive per batch of tweets over time. 
