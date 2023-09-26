@@ -1,6 +1,6 @@
 ## Towards Real-Time Monitoring of Public Opinion on Twitter Using Sentiment and Emotion Analysis
 
-In this data science project, the primary objective is to build a real-time machine learning system for sentiment and emotion analysis of Twitter data. This involves skills such as natural language processing using NLTK and vader_lexicon for sentiment analysis, as well as utilizing the SemEval 2018 - Task E-c dataset for emotion classification. The project encompasses extensive data preprocessing, text vectorization, and machine learning model training, including methods like BernoulliNB, LogisticRegression, and LinearSVC. For example below is a word cloud generated from tweets labeled as having the emotion 'joy'. The bigger the word, the more frequently it occured in that set of tweets. 
+IN this data science project, the primary objective is to build a real-time machine learning system for sentiment and emotion analysis of Twitter data. This involves skills such as natural language processing using NLTK and vader_lexicon for sentiment analysis, as well as utilizing the SemEval 2018 - Task E-c dataset for emotion classification. The project encompasses extensive data preprocessing, text vectorization, and machine learning model training, including methods like BernoulliNB, LogisticRegression, and LinearSVC. For example below is a word cloud generated from tweets labeled as having the emotion 'joy'. The bigger the word, the more frequently it occured in that set of tweets. 
 
 <img src="images/joywordcloud.jpg?raw=true"/>
 
