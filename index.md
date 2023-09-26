@@ -6,8 +6,6 @@
 
 This project developes a real-time machine learning system for sentiment and emotion analysis of Twitter data streams, employing natural language processing, effective data preprocessing, and machine learning model training. It centers on real-time sentiment and emotion tracking, employing visualization methods to gain insights into evolving public opinions on Twitter topics.
 
-<img src="images/twitsent.jpg?raw=true"/>
-
 ---
 [Bully Blocker](/sample_presentation.pdf)
 
