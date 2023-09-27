@@ -8,24 +8,25 @@ The project consists of the following parts:
 - emotion identification over time (WHAT ARE THE EMOTIONS), and
 - real-time sentiment and emotion relationship analysis.
 
-The results are visualized as bipartite graphs and dynamic plots, providing insights into evolving public opinion. The following figures were created using tweets pulled with the keywords "covid" and "chatGPT". In this first image, we have a bipartite graph that shows the relationships between negative or positive sentiment and each of the emotions. The thickness of the edge encodes the weight of the corresponding pair.
+<!-- The results are visualized as bipartite graphs and dynamic plots, providing insights into evolving public opinion. -->
+The following figures were created using tweets pulled with the keywords "covid" and "chatGPT" on ???-???/2023. 
 
-<img src="images/bipartiteCovid.jpg?raw=true"/>
+- **Relationships between sentiments and each of the emotions:**  WHAT IS THE KEYWORD FOR THIS PLOT? The thickness of the edge encodes the weight of the corresponding pair.
+<p align="center" width="70%">
+<img src="images/bipartiteCovid.jpg?raw=true"  width="600"/>
+</p><br><br>
 
+- **Emotion magnitude over time:** The dynamic plot shows average change of emotions over the time period XXXXXX.
 
-Next we have a dynamic plot showing average change of emotions per batch of tweets over time and a dynamic pie chart showing frequency of emotions per batch of tweets over time. 
-
-<video src="https://github.com/cdjidjev/cdjidjev.github.io/assets/40774209/12867180-6878-451b-b62d-1dfe56cd94e9" controls="controls" style="max-width: 500px;">
+<video src="https://github.com/cdjidjev/cdjidjev.github.io/assets/40774209/12867180-6878-451b-b62d-1dfe56cd94e9" controls="controls" style="max-width: 400px;">
 </video>
+<br><br>
 
-<video src="https://github.com/cdjidjev/cdjidjev.github.io/assets/40774209/7223d7d6-0841-4c0e-a28b-841bdbfd96e1" controls="controls" style="max-width: 500px;">
+- **Emotion dynamics as a pie chart:**  The dynamic pie chart shows the relative frequency of emotions over the same period of time, where tweets data is divided into 100 batches. 
+
+<video src="https://github.com/cdjidjev/cdjidjev.github.io/assets/40774209/7223d7d6-0841-4c0e-a28b-841bdbfd96e1" controls="controls" style="max-width: 400px;">
 </video>
+<br><br>
 
+Ultimately, this project is a step towards building a powerful real-time tool for dynamically tracking sentiment and emotions across various Twitter topics.
 
-
-
-
-Ultimately, this project aims to offer a powerful real-time tool for tracking sentiment and emotions across various Twitter topics..
-
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
