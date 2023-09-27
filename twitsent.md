@@ -12,8 +12,8 @@ The project consists of the following parts:
 The following figures were created using tweets pulled with the keywords "covid" and "chatGPT" on ???-???/2023. 
 
 - **Relationships between sentiments and each of the emotions:**  WHAT IS THE KEYWORD FOR THIS PLOT? The thickness of the edge encodes the weight of the corresponding pair.
-<p align="center" >
-<img src="images/bipartiteCovid.jpg?raw=true"  width="500"/>
+<p align="center"  width="500">
+<img src="images/bipartiteCovid.jpg?raw=true"/>
 </p><br><br>
 
 - **Emotion magnitude over time:** The dynamic plot shows average change of emotions over the time period XXXXXX.
