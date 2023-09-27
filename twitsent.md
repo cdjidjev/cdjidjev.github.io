@@ -1,14 +1,14 @@
 ## Towards Real-Time Monitoring of Public Opinion on Twitter Using Sentiment and Emotion Analysis
 
-The primary objective of the project is to build a real-time machine learning system for sentiment and emotion analysis of Twitter data employing natural language processing using NLTK and vader_lexicon for sentiment analysis, utilizing the SemEval 2018 - Task E-c dataset for emotion classification, and scikit-learn python library among others. The project encompasses extensive data preprocessing, text vectorization, and machine learning model training, including methods like BernoulliNB, LogisticRegression, and LinearSVC. 
+The primary objective is to build a real-time machine-learning system for sentiment and emotion analysis of Twitter data, employing natural language processing using *NLTK* and *vader_lexicon* for sentiment analysis, utilizing the *SemEval 2018 - Task E-c* dataset for emotion classification, and *scikit-learn* and *matplotlib* python libraries among others. The project encompasses extensive data preprocessing, text vectorization, and machine learning model training, including methods like BernoulliNB, LogisticRegression, and LinearSVC. 
 
 The project consists of the following parts: 
 - SOMETHING ABOUT COLLECTING AND STORING TWEETS FROM STREAMING ENDPOINTS on specific topics
 - sentiment trend analysis over time (WHAT ARE THE SENTIMENTS), 
-- emotion identification (WHAT ARE THE EMOTIONS), and
+- emotion identification over time (WHAT ARE THE EMOTIONS), and
 - real-time sentiment and emotion relationship analysis.
 
-The results are visualized in bipartite graphs and dynamic plots, providing insights into evolving public opinion. The following figures were created using tweets pulled with the keywords "covid" and "chatGPT". In this first image, we have a bipartite graph that shows the relationships between negative or positive sentiment and each of the emotions. The thickness of the edge encodes the weight of the corresponding pair.
+The results are visualized as bipartite graphs and dynamic plots, providing insights into evolving public opinion. The following figures were created using tweets pulled with the keywords "covid" and "chatGPT". In this first image, we have a bipartite graph that shows the relationships between negative or positive sentiment and each of the emotions. The thickness of the edge encodes the weight of the corresponding pair.
 
 <img src="images/bipartiteCovid.jpg?raw=true"/>
 
