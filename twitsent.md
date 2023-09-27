@@ -16,13 +16,13 @@ The following figures were created using tweets pulled with the keywords "covid"
 <img src="images/bipartiteCovid.jpg?raw=true"/>
 </p><br><br>
 
-- **Emotion magnitude over time:** The dynamic plot shows average change of emotions over the time period XXXXXX.
+- **Emotions magnitudes over time:** The dynamic plot shows average change of emotions over the time period XXXXXX.
 
 <video src="https://github.com/cdjidjev/cdjidjev.github.io/assets/40774209/12867180-6878-451b-b62d-1dfe56cd94e9" controls="controls" style="max-width: 500px;">
 </video>
 <br><br>
 
-- **Emotion dynamics as a pie chart:**  The dynamic pie chart shows the relative frequency of emotions over the same period of time, where tweets data is divided into 100 batches. 
+- **Emotions dynamics as a pie chart:**  The dynamic pie chart shows the relative frequency of emotions over the same period of time, where tweets data is divided into 100 batches. 
 
 <video src="https://github.com/cdjidjev/cdjidjev.github.io/assets/40774209/7223d7d6-0841-4c0e-a28b-841bdbfd96e1" controls="controls" style="max-width: 500px;">
 </video>
