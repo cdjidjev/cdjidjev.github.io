@@ -3,13 +3,13 @@
 The primary objective is to build a real-time machine-learning system for sentiment and emotion analysis of Twitter data, employing natural language processing using *NLTK* and *vader_lexicon* for sentiment analysis, utilizing the *SemEval 2018 - Task E-c* dataset for emotion classification, and *scikit-learn* and *matplotlib* python libraries among others. The project encompasses extensive data preprocessing, text vectorization, and machine learning model training, including methods like BernoulliNB, LogisticRegression, and LinearSVC. 
 
 The project consists of the following parts: 
-- Retrieve tweets from Twitter's API using a filtered stream endpoint with a predefined set of rules (keywords),
+- retrieving live tweets from Twitter's API using a filtered stream endpoint with a predefined set of rules (keywords),
 - sentiment (negative or positive) trend analysis over time, 
 - emotion (joy, optimism, love, fear, pessimism, anger, anticipation) identification over time, and
 - real-time sentiment and emotion relationship analysis.
 
 <!-- The results are visualized as bipartite graphs and dynamic plots, providing insights into evolving public opinion. -->
-The following figures were created using tweets pulled with the keywords "covid" and "chatGPT" on April 14th 2023 at 11:46am - April 14th 2023 at 1:03pm. 
+The following figures were created using tweets pulled with the keywords "covid" and "chatGPT" on April 14th 2023 between 11:46am and 1:03pm. 
 
 - **Relationships between sentiments and each of the emotions:** The thickness of the edge encodes the weight of the corresponding pair.
 
