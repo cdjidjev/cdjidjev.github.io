@@ -20,19 +20,7 @@ In the realm of financial security, fraud remains a pervasive challenge for busi
 [Cash Dash - Hacking4Defense](http://example.com/)
 
 Improved dashboard design for DOD Warfare Wing, enhancing user-friendliness and efficiency, exemplified by the MVP. Integration of Power Automate streamlines file management, alleviating data processing challenges, while Microsoft Teams expedites access to critical resources.
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
 
----
-
-### Category Name 2
-
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
-
----
 
 
 
