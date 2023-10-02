@@ -7,7 +7,7 @@
 This project develops a real-time machine learning system for sentiment and emotion analysis of Twitter data streams, employing extensive data preprocessing, machine learning model training, and natural language processing. It centers on real-time tracking of sentiment and emotion in tweets, employing visualization methods to gain insights into evolving public opinions on Twitter topics.
 
 ---
-[Bully Blocker](/sample_presentation.pdf)
+[Bully Blocker](/bullyblocker)
 
 Interdisciplinary project leveraging computer science and psychology to combat cyberbullying by creating models, apps, and educational resources, fostering awareness, and nurturing future interdisciplinary scholars.
 
