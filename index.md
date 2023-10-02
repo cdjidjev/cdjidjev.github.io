@@ -12,7 +12,7 @@ This project develops a real-time machine learning system for sentiment and emot
 Interdisciplinary project leveraging computer science and psychology to combat cyberbullying by creating models, apps, and educational resources, fostering awareness, and nurturing future interdisciplinary scholars.
 
 ---
-[Predicting Fruadulent Transactions](http://example.com/)
+[Predicting Fruadulent Transactions](/fraud)
 
 In the realm of financial security, fraud remains a pervasive challenge for businesses and organizations. This project seeks to harness the power of machine learning to create a robust model for fraud detection in financial transactions, leveraging a carefully curated dataset and advanced data preprocessing techniques.
 
