@@ -17,7 +17,7 @@ Interdisciplinary project leveraging computer science and psychology to combat c
 In the realm of financial security, fraud remains a pervasive challenge for businesses and organizations. This project seeks to harness the power of machine learning to create a robust model for fraud detection in financial transactions, leveraging a carefully curated dataset and advanced data preprocessing techniques.
 
 ---
-[Cash Dash - Hacking4Defense](/CashDash)
+[Cash Dash - Hacking4Defense](pdf/CashDash.pptx)
 
 Improved dashboard design for DOD Warfare Wing, enhancing user-friendliness and efficiency, exemplified by the MVP. Integration of Power Automate streamlines file management, alleviating data processing challenges, while Microsoft Teams expedites access to critical resources.
 
