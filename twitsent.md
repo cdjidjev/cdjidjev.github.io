@@ -11,14 +11,14 @@ The project consists of the following parts:
 <!-- The results are visualized as bipartite graphs and dynamic plots, providing insights into evolving public opinion. -->
 The following figures were created using tweets pulled with the keywords "covid" and "chatGPT" on April 14th 2023 between 11:46am and 1:03pm. 
 
-- **Relationships between sentiments and each of the emotions:** The thickness of the edge encodes the weight of the corresponding pair.
+- **Relationships between sentiments and each of the emotions:** The next biparite graph illustrates the relationship between emotions and sentiments in the data. Edge thickness represents the proportion of tweets associated with each emotion having positive vs. negative sentiment.
 
 keyword: "covid"
 <p align="center"  width="500">
 <img src="images/bipartiteCovid.jpg?raw=true"/>
 </p><br><br>
 
-- **Emotions magnitudes over time:** The dynamic plot shows average change of emotions over the time period of about half of an hour. 
+- **Emotions magnitudes over time:** The dynamic plot depicts the  average change of emotions in tweets over a half-hour period, with time accelerated for convenience of the viewer.
 
 <video src="https://github.com/cdjidjev/cdjidjev.github.io/assets/40774209/12867180-6878-451b-b62d-1dfe56cd94e9" controls="controls" style="max-width: 500px;">
 </video>
