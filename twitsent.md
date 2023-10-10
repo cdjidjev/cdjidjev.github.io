@@ -15,7 +15,7 @@ The following figures were created using tweets pulled with the keywords "covid"
 
 keyword: "covid"
 <p align="center"  width="500">
-<img src="images/bipartiteCovid.jpg?raw=true"/>
+<img src="images/bipartiteNew.jpg?raw=true"/>
 </p><br><br>
 
 - **Emotions magnitudes over time:** The dynamic plot depicts the  average change of emotions in tweets over a half-hour period, with time accelerated for convenience of the viewer.
@@ -31,4 +31,8 @@ keyword: "covid"
 <br><br>
 
 Ultimately, this project is a step towards building a powerful real-time tool for dynamically tracking sentiment and emotions across various Twitter topics.
+
+**Student Choice Award Recieved at 2023 New College Undergraduate Inquiry and Research Experiences Symposium (NCUIRE)**
+
+
 
