@@ -14,7 +14,7 @@ The following figures were created using tweets pulled with the keywords "covid"
 
 - **Relationships between sentiments and each of the emotions:** The next biparite graph illustrates the relationship between emotions and sentiments in the data. Edge thickness represents the proportion of tweets associated with each emotion having positive vs. negative sentiment.
 
-<p align="center"  width="500"> Bipartite graph for keyword: "covid"
+<p align="center"  width="500"> Bipartite graph for keyword "covid"
 
 <img src="images/bipartiteNew.jpg?raw=true"/>
 </p><br><br>
