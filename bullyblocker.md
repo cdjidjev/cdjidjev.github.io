@@ -4,7 +4,7 @@
 
 Over the course of several semesters, our interdisciplinary project at Arizona State University, known as BullyBlocker, focused on researching and developing methods to extract and analyze data from the social network platform TikTok, with the goal of identifying and addressing instances of cyberbullying. This report outlines my key activities and findings throughout the project.
 
-## Task 1: Data Extraction from TikTok  (9/2020-4/2021)
+## Task 1: Data Extraction from TikTok  (8/2020-12/2020)
 
 The primary focus of this task was data extraction from TikTok:
 
@@ -20,7 +20,7 @@ The primary focus of this task was data extraction from TikTok:
 
 6. **Comments Retrieval**: I also created a method to retrieve a specified number of comments from selected sessions.
 
-## Task 2: Data Analysis and Challenges
+## Task 2: Data Analysis and Challenges (1/2022-12/2022)
 
 In this task, the focus shifted toward data analysis and overcoming challenges:
 
@@ -36,7 +36,7 @@ In this task, the focus shifted toward data analysis and overcoming challenges:
 
 6. **TikTok Insights**: Our experiences highlighted the challenges of extracting data from TikTok and provided insights into TikTok's anti-cyberbullying policies.
 
-## Task 3: Exploring Reddit and Comparative Analysis
+## Task 3: Exploring Reddit and Comparative Analysis (1/2023-5/2023)
 
 In this task, we expanded our scope to explore Reddit and conducted a comparative analysis of data extraction methods:
 
