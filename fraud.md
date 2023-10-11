@@ -1,6 +1,5 @@
-# Report: Predicting Fraudulent Transactions
-*By Christie Djidjev*  
-*Course: ACO 423: Data Science*
+# Predicting Fraudulent Transactions
+*ACO 423: Data Science project report*
 
 ## Introduction
 
@@ -11,10 +10,11 @@ using supervised learning techniques.
 
 ## Data Source
 
-Obtaining a suitable dataset for fraud detection is crucial. In this project, a dataset titled 'Fraudulent Transactions Predictions' from 
-Kaggle.com was chosen. This dataset, posted by user vardhan SIRAMDASU, garnered attention with 68 upvotes, indicating its utility. While the 
-dataset's origin is not explicitly mentioned, users speculate it's derived from PaySim, a financial mobile money simulator designed for fraud 
+Obtaining a suitable dataset for fraud detection is crucial. In this *ACO 423: Data Science project*, a dataset titled 'Fraudulent Transactions Predictions' from 
+Kaggle.com was chosen. The data has been generated using PaySim, a financial mobile money simulator designed for fraud 
 detection. PaySim simulates mobile money transactions based on real transaction logs while preserving client privacy.
+
+As an illustration, the first few lines of the dataset are given below.
 
 ![image](https://github.com/cdjidjev/cdjidjev.github.io/assets/40774209/2e32246c-4502-4ba1-a725-a16657fc6c17)
 
@@ -66,17 +66,17 @@ availability of various algorithms for comparison.
 
 ## Results
 • **LinearRegression**
-score: 0.010578148592109371
-execution time: 4.9s
+score: 0.010578148592109371,
+execution time: 4.9s  <br>
 • **LogisticRegression**
-score: 0.9979041652652524
-execution time: 11.4s
+score: 0.9979041652652524,
+execution time: 11.4s  <br>
 • **DecisionTreeRegressor**
-score: 0.4678829443271866
-execution time: 29.9s
+score: 0.4678829443271866,
+execution time: 29.9s  <br>
 • **RandomForestClassifier**
-score: 0.9995182802053242
-execution time: 14m 41.2s
+score: 0.9995182802053242,
+execution time: 14m 41.2s  <br>
 
 ![image](https://github.com/cdjidjev/cdjidjev.github.io/assets/40774209/dd18977b-6237-4323-a326-29150e7bed88)
 
@@ -92,5 +92,3 @@ algorithms tested, Logistic Regression and Random Forest proved to be the most a
 with an unbalanced dataset, resulting in effective fraud prediction.
 
 ---
-
-*Figures and graphs mentioned in the report are not included in this text-based format.*
