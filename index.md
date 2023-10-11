@@ -9,7 +9,7 @@ This project develops a real-time machine learning system for sentiment and emot
 ---
 [Bully Blocker](/bullyblocker)
 
-Interdisciplinary project leveraging computer science and psychology to combat cyberbullying by creating models, apps, and educational resources, fostering awareness, and nurturing future interdisciplinary scholars.
+Interdisciplinary project leveraging computer science and psychology to combat cyberbullying. It involves creating models, apps, and educational resources to raise awareness by harvesting large quantities of data from social media sites like Twitter, TikTok, and Instagram, cleaning and processing it, and extracting cyberbullying information from it.
 
 ---
 [Predicting Fruadulent Transactions](/fraud)
