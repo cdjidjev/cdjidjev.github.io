@@ -55,7 +55,7 @@ Data preprocessing is essential to prepare the data for analysis. Key steps incl
 4. Encoding the `type` feature with numerical values (0-4) to make it suitable for analysis.
 5. Ensuring there are no missing or invalid values in the dataset.
 
-![image](https://github.com/cdjidjev/cdjidjev.github.io/assets/40774209/157ad10e-af63-4e14-99fe-0271ee15178a)
+![transactionTypes](https://github.com/cdjidjev/cdjidjev.github.io/assets/40774209/8b8f9ec9-65bf-419b-b205-856d36018960)
 
 
 ## Model Selection
