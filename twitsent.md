@@ -1,4 +1,5 @@
-## Towards Real-Time Monitoring of Public Opinion on Twitter Using Sentiment and Emotion Analysis
+## Towards Real-Time Monitoring of Public Opinion on Twitter Using Sentiment and Emotion Analysis <BR>
+![award](https://cdn-icons-png.flaticon.com/512/3395/3395949.png) *Student Choice Award*, 2023 New College Undergraduate Inquiry and Research Experiences  (NCUIRE) Symposium
 
 The primary objective is to build a real-time machine-learning system for sentiment and emotion analysis of Twitter data, employing natural language processing using *NLTK* and *vader_lexicon* for sentiment analysis, utilizing the *SemEval 2018 - Task E-c* dataset for emotion classification, and *scikit-learn* and *matplotlib* python libraries among others. The project encompasses extensive data preprocessing, text vectorization, and machine learning model training, including methods like BernoulliNB, LogisticRegression, and LinearSVC. 
 
@@ -32,7 +33,7 @@ keyword: "covid"
 
 Ultimately, this project is a step towards building a powerful real-time tool for dynamically tracking sentiment and emotions across various Twitter topics.
 
-**Student Choice Award Recieved at 2023 New College Undergraduate Inquiry and Research Experiences Symposium (NCUIRE)**
+
 
 
 
