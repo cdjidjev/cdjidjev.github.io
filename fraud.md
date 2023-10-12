@@ -65,22 +65,24 @@ and XGBoost were considered. Scikit-learn was chosen for its robustness, extensi
 availability of various algorithms for comparison.
 
 ## Results
-• **LinearRegression**
+- **LinearRegression**
 score: 0.0106,
 execution time: 4.9s  <br>
-• **LogisticRegression**
+- **LogisticRegression**
 score: 0.998,
 execution time: 11.4s  <br>
-• **DecisionTreeRegressor**
+- **DecisionTreeRegressor**
 score: 0.4679,
 execution time: 29.9s  <br>
-• **RandomForestClassifier**
+- **RandomForestClassifier**
 score: 0.9995,
 execution time: 14m 41.2s  <br>
 
-![image](https://github.com/cdjidjev/cdjidjev.github.io/assets/40774209/dd18977b-6237-4323-a326-29150e7bed88)
+<p align="left">
+  <img width="500" height="500" src="https://github.com/cdjidjev/cdjidjev.github.io/assets/40774209/dd18977b-6237-4323-a326-29150e7bed88"> </p>
 
-We analyzed feature importance of the RandomForrestClassifier
+
+We also analyze feature importance of the RandomForrestClassifier.
 
 ![image](https://github.com/cdjidjev/cdjidjev.github.io/assets/40774209/eb9a27db-a9ad-46ef-8092-42fc2883362e)
 
