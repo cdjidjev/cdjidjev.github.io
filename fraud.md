@@ -79,7 +79,7 @@ score: 0.9995,
 execution time: 14m 41.2s  <br>
 
 <p align="left">
-  <img width="500" height="500" src="https://github.com/cdjidjev/cdjidjev.github.io/assets/40774209/dd18977b-6237-4323-a326-29150e7bed88"> </p>
+  <img width="400" height="400" src="https://github.com/cdjidjev/cdjidjev.github.io/assets/40774209/dd18977b-6237-4323-a326-29150e7bed88"> </p>
 
 
 We also analyze feature importance of the RandomForrestClassifier.
