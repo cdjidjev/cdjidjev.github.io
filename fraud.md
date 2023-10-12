@@ -66,16 +66,16 @@ availability of various algorithms for comparison.
 
 ## Results
 • **LinearRegression**
-score: 0.010578148592109371,
+score: 0.0106,
 execution time: 4.9s  <br>
 • **LogisticRegression**
-score: 0.9979041652652524,
+score: 0.998,
 execution time: 11.4s  <br>
 • **DecisionTreeRegressor**
-score: 0.4678829443271866,
+score: 0.4679,
 execution time: 29.9s  <br>
 • **RandomForestClassifier**
-score: 0.9995182802053242,
+score: 0.9995,
 execution time: 14m 41.2s  <br>
 
 ![image](https://github.com/cdjidjev/cdjidjev.github.io/assets/40774209/dd18977b-6237-4323-a326-29150e7bed88)
