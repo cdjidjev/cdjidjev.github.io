@@ -52,6 +52,6 @@ In this task, we expanded our scope to explore Reddit and conducted a comparativ
 
 ## Conclusion
 
-The BullyBlocker project involves extensive research, data extraction, and analysis efforts on several social media platforms, but I primarily focused on TikTok and Reddit. The work aimes to uncover and address instances of cyberbullying of various types, and we have encountered challenges and learning experiences throughout our journey. The project continues to evolve, and we are dedicated to its ongoing success.
+The BullyBlocker project involves extensive research, data extraction, and analysis efforts on several social media platforms, but I primarily focused on TikTok and Reddit. The work aims to uncover and address instances of cyberbullying of various types, and we have encountered challenges and learning experiences throughout our journey. The project continues to evolve, and we are dedicated to its ongoing success.
 
 **Note**: The final task of generating surveys and labeling sessions for cyberbullying detection is still in progress and is expected to be completed by other team members, since I graduated from Arizona State University, but I am still available for help with using my code and to share my experience.
